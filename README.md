@@ -1,2 +1,2 @@
 # ruslanchipipil.github.io
-Introduction to Github
+Домашні завдання з курсу Full Stack Developer
